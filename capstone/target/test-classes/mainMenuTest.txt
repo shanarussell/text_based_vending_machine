@@ -1,0 +1,29 @@
+
+*** Main Menu ***
+1) Display vending machine items
+2) Make a purchase
+3) Exit
+Please enter a number: 
+Products available
+A1 | Potato Crisps | $3.05 | Qty: 5
+A2 | Stackers | $1.45 | Qty: 5
+A3 | Grain Waves | $2.75 | Qty: 5
+A4 | Cloud Popcorn | $3.65 | Qty: 5
+B1 | Moonpie | $1.80 | Qty: 5
+B2 | Cowtales | $1.50 | Qty: 5
+B3 | Wonka Bar | $1.50 | Qty: 5
+B4 | Crunchie | $1.75 | Qty: 5
+C1 | Cola | $1.25 | Qty: 5
+C2 | Dr. Salt | $1.50 | Qty: 5
+C3 | Mountain Melter | $1.50 | Qty: 5
+C4 | Heavy | $1.50 | Qty: 5
+D1 | U-Chews | $0.85 | Qty: 5
+D2 | Little League Chew | $0.95 | Qty: 5
+D3 | Chiclets | $0.75 | Qty: 5
+D4 | Triplemint | $0.75 | Qty: 5
+
+*** Main Menu ***
+1) Display vending machine items
+2) Make a purchase
+3) Exit
+Please enter a number: 
